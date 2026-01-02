@@ -48,5 +48,6 @@ Left Click: Wink your Left Eye.
 
 Right Click: Wink your Right Eye.
 
+Most head-tracking projects on Arduino Hub require external physical buttons or sound sensors for clicking. Gesture Mouse eliminates this need by using AI-powered computer vision (MediaPipe) to detect eye winks, providing a truly hands-free experience for users with zero limb mobility.
 
 This project is open-source. Feel free to use and modify it :) !
